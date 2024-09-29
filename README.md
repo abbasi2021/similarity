@@ -1,2 +1,2 @@
 # similarity
-check similarity of texts
+Checking the similarity of two texts
